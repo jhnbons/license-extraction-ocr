@@ -1,6 +1,6 @@
-path: D:\Download\FINAL-20240110T053915Z-001\FINAL\datasets\license\images
-train: preprocess\train
-val: preprocess\val
+path: D:\Download\FINAL-20240110T053915Z-001\FINAL\datasets\license
+train: images\train
+val: images\val
 
 names:
   0: name
