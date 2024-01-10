@@ -1,0 +1,9 @@
+path: D:\Download\FINAL-20240110T053915Z-001\FINAL\datasets\license\images
+train: preprocess\train
+val: preprocess\val
+
+names:
+  0: name
+  1: sex
+  2: license
+  3: code
