@@ -1,9 +1,8 @@
-path: D:\Download\FINAL-20240110T053915Z-001\FINAL\datasets\license
+path: D:\Download\FINAL-20240110T053915Z-001\FINAL\datasets\alt
 train: images\train
 val: images\val
 
 names:
-  0: name
-  1: sex
+  0: last
+  1: first
   2: license
-  3: code

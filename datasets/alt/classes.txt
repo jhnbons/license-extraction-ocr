@@ -1,4 +1,0 @@
-last_name
-first
-license
-last
